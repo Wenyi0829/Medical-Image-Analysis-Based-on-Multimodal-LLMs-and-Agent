@@ -1,0 +1,25 @@
+{
+  "num_samples": 784,
+  "timestamp": "2026-03-07T18:14:54.340528",
+  "eval_baseline": true,
+  "baseline": {
+    "bleu_mean": 0.007558032661552294,
+    "bleu_std": 0.012405411221634051,
+    "rouge_l_mean": 0.15276970629792422,
+    "rouge_l_std": 0.04713523463786319,
+    "exact_match_mean": 0.0,
+    "medical_acc_mean": 0.8558673469387755
+  },
+  "finetuned": {
+    "bleu_mean": 0.0701432094983412,
+    "bleu_std": 0.08060761253746411,
+    "rouge_l_mean": 0.33461024915203497,
+    "rouge_l_std": 0.09360401107449506,
+    "exact_match_mean": 0.0,
+    "medical_acc_mean": 0.9316476590636256
+  },
+  "bleu_improvement_pct": 828.0617409231328,
+  "rouge_l_improvement_pct": 119.02918926838413,
+  "exact_match_improvement_pct": 0,
+  "medical_acc_improvement_pct": 8.854212325764891
+}
