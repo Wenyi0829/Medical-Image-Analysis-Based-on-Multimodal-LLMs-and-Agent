@@ -1,0 +1,17 @@
+{
+  "sources": [
+    {
+      "path": "/home/wshenah/LLaVA-Med/data/pmc_articles",
+      "format": "pmc_xml_dir",
+      "source_id": "pmc",
+      "optional": false
+    },
+    {
+      "path": "/home/wshenah/datasets/top_conference_med_papers",
+      "format": "text_dir",
+      "source_id": "top_conference",
+      "optional": true
+    }
+  ]
+}
+

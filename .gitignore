@@ -1,0 +1,59 @@
+# Datasets and indexes
+rag_data/
+rag_index/
+
+# Model weights and caches
+models/
+hf_cache/
+lora/
+
+# Evaluation outputs
+eval_results/
+
+# Logs
+logs/
+
+# Documentation
+*.md
+*.tex
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Training / data artifacts
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.jsonl
+*.parquet
+*.npy
+*.npz
+*.zip
+*.tar
+*.tar.gz
+*.gz
+*.7z
+
+# Images and reports (case studies, plots)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.csv
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~

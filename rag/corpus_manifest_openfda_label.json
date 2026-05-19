@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "path": "/home/wshenah/project/rag_data/openfda/openfda_drug_label_corpus.jsonl",
+      "format": "jsonl",
+      "source_id": "openfda_drug_label",
+      "optional": false,
+      "text_fields": ["text"]
+    }
+  ]
+}
+
