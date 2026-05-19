@@ -13,8 +13,9 @@ eval_results/
 # Logs
 logs/
 
-# Documentation
+# Documentation (keep README in repo)
 *.md
+!README.md
 *.tex
 
 # Python
